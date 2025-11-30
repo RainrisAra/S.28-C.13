@@ -1,6 +1,6 @@
 无标题
 
-要查看文件，点击[此处](https://github.com/RainrisAra/S.28-C.13?search=1"[文件]页面")以跳转
+要查看文件，点击[此处](https://github.com/RainrisAra/S.28-C.13/tree/main?search=1p"[文件]页面")以跳转
 
 ---
 **隐私**  
