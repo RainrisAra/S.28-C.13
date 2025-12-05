@@ -2,8 +2,9 @@
 
 要查看文件，请点击上方的任意文件以跳转  
 
-关于最近的计划，请查看[问题](https://github.com/RainrisAra/S.28-C.13/issues "Issues")  
-关于最近的更改，请查看[拉取请求](https://github.com/RainrisAra/S.28-C.13/pulls "Pull requests")  
+关于**最近的计划**，参阅[问题](https://github.com/RainrisAra/S.28-C.13/issues "Issues")  
+关于**正在进行的更改**，参阅[拉取请求](https://github.com/RainrisAra/S.28-C.13/pulls "Pull requests")  
+关于**最近的更改**，参阅[Project分支](https://github.com/RainrisAra/S.28-C.13/tree/project "Project")
 
 ---
 
